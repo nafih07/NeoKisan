@@ -5299,7 +5299,6 @@ google_maps_flutter
 google_maps_flutter_platform_interface
 image_picker_for_web
 image_picker_platform_interface
-package_info
 path_provider
 path_provider_linux
 path_provider_macos
